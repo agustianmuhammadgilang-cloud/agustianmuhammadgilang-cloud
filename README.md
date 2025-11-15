@@ -2,7 +2,7 @@
 
 ##### Socials:
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/m.gilangagustian?igsh=bWV0OWdidjF5Y3J6) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@https://www.tiktok.com/@m.gilangagustian?_r=1&_t=ZS-91Mb5Qw7fIV) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:agustianmuhammadgilang@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/m.gilangagustian?igsh=bWV0OWdidjF5Y3J6) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://www.tiktok.com/@m.gilangagustian?_r=1&_d=e029f3082d99jc&sec_uid=MS4wLjABAAAA_5yBKNC6hMm0vrbXxy2z4gpRHguWPECkhJVnZTkwp5TSBsfGWCfflira52TPdztU&share_author_id=7082770621968843802&sharer_language=id&source=h5_t&u_code=e14cl9cmljaad8&timestamp=1763193252&user_id=7082770621968843802&sec_user_id=MS4wLjABAAAA_5yBKNC6hMm0vrbXxy2z4gpRHguWPECkhJVnZTkwp5TSBsfGWCfflira52TPdztU&item_author_type=1&utm_source=copy&utm_campaign=client_share&utm_medium=android&share_iid=7572752608025724679&share_link_id=35ab39d3-abb3-43f6-94f5-c6910c150290&share_app_id=1180&ugbiz_name=ACCOUNT&ug_btm=b8727%2Cb7360&social_share_type=5&enable_checksum=1) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:agustianmuhammadgilang@gmail.com)
 
 ##### Tech Stack:
 
@@ -31,7 +31,7 @@ at Politeknik Negeri Bandung
 
 
 
-<!-- ##### GitHub Stats:
+##### GitHub Stats:
 
 ![](https://github-readme-stats.vercel.app/api?username=agustianmuhammadgilang-cloud&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=agustianmuhammadgilang-cloud&theme=dark&hide_border=false)<br/>
@@ -46,7 +46,7 @@ at Politeknik Negeri Bandung
 
 [![](https://visitcount.itsvg.in/api?id=agustianmuhammadgilang-cloud&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<div> -->
+<div>
 
 <img src="https://raw.githubusercontent.com/agustianmuhammadgilang-cloud/agustianmuhammadgilang-cloud/output/snake.svg" alt="Snake animation" />
 
