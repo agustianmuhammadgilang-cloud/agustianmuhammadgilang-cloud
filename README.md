@@ -16,34 +16,44 @@
 
 ### Tech Stack
 
-##### Programming Languages
-<p>
-  <img src="https://img.shields.io/badge/PHP-777BB4.svg?style=for-the-badge&logo=php&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
-</p>
+<details>
+  <summary><strong>📌 Programming Languages</strong></summary>
+  <br>
+  <p>
+    <img src="https://img.shields.io/badge/PHP-777BB4.svg?style=for-the-badge&logo=php&logoColor=white"/>
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black"/>
+    <img src="https://img.shields.io/badge/CSS3-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
+  </p>
+</details>
 
-##### Frameworks & Libraries
-<p>
-  <img src="https://img.shields.io/badge/CodeIgniter-EF4223?style=for-the-badge&logo=codeigniter&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Laravel-FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Flutter-02569B.svg?style=for-the-badge&logo=flutter&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Bootstrap-8511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white"/>
-</p>
+<details>
+  <summary><strong>📌 Frameworks & Libraries</strong></summary>
+  <br>
+  <p>
+    <img src="https://img.shields.io/badge/CodeIgniter-EF4223?style=for-the-badge&logo=codeigniter&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Laravel-FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Flutter-02569B.svg?style=for-the-badge&logo=flutter&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Bootstrap-8511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+  </p>
+</details>
 
-##### Databases
-<p>
-  <img src="https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
-</p>
+<details>
+  <summary><strong>📌 Databases</strong></summary>
+  <br>
+  <p>
+    <img src="https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
+  </p>
+</details>
 
-##### Tools & Platforms
-<p>
-  <img src="https://img.shields.io/badge/Canva-00C4CC.svg?style=for-the-badge&logo=canva&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=github&logoColor=white"/>
-</p>
+<details>
+  <summary><strong>📌 Tools & Platforms</strong></summary>
+  <br>
+  <p>
+    <img src="https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=git&logoColor=white"/>
+    <img src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=github&logoColor=white"/>
+  </p>
+</details>
 
----
 
 ### Organization & Leadership
 | Organisasi | Deskripsi |
@@ -81,10 +91,6 @@ Fokus utama:
 
 ---
 
-
-
-
-
 ### GitHub Trophies
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=agustianmuhammadgilang-cloud&theme=radical&no-frame=false&no-bg=true&margin-w=4"/>
@@ -98,9 +104,8 @@ Fokus utama:
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=agustianmuhammadgilang-cloud&theme=tokyonight" />
 </p>
 
-
-
 ---
+
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=00FFB7&center=true&vCenter=true&width=500&lines=Thanks+for+visiting!;Keep+learning+and+building+🔥" />
 </p>
