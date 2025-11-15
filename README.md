@@ -56,7 +56,7 @@
 
 ---
 
-#### Internship (PKL)
+### Internship (PKL)
 📍 **Politeknik Negeri Bandung**
 
 Fokus utama:
@@ -72,7 +72,7 @@ Fokus utama:
 
 ---
 
-#### GitHub Stats
+### GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=agustianmuhammadgilang-cloud&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
@@ -85,14 +85,14 @@ Fokus utama:
 
 
 
-#### GitHub Trophies
+### GitHub Trophies
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=agustianmuhammadgilang-cloud&theme=radical&no-frame=false&no-bg=true&margin-w=4"/>
 </p>
 
 ---
 
-#### Activity Graph
+### Activity Graph
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=agustianmuhammadgilang-cloud&theme=tokyonight" />
@@ -105,9 +105,4 @@ Fokus utama:
   <img src="https://readme-typing-svg.herokuapp.com?color=00FFB7&center=true&vCenter=true&width=500&lines=Thanks+for+visiting!;Keep+learning+and+building+🔥" />
 </p>
 
-
-<!-- Adaptive banner -->
-<p align="center">
-  <img src="img/banner-adaptive.svg" alt="Muhammad Gilang Agustian - Banner" style="max-width:100%;height:auto;border-radius:12px;" />
-</p>
 
