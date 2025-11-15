@@ -20,9 +20,10 @@
   <summary><strong>📌 Programming Languages</strong></summary>
   <br>
   <p>
-    <img src="https://img.shields.io/badge/PHP-777BB4.svg?style=for-the-badge&logo=php&logoColor=white"/>
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black"/>
-    <img src="https://img.shields.io/badge/CSS3-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"(https://www.w3schools.com/html/)/>
+    <img src="https://img.shields.io/badge/CSS3-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white"(https://www.w3schools.com/css/)/>
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black"(https://www.w3schools.com/js/)/>
+    <img src="https://img.shields.io/badge/PHP-777BB4.svg?style=for-the-badge&logo=php&logoColor=white"(https://www.php.net/)/>
   </p>
 </details>
 
@@ -30,10 +31,10 @@
   <summary><strong>📌 Frameworks & Libraries</strong></summary>
   <br>
   <p>
-    <img src="https://img.shields.io/badge/CodeIgniter-EF4223?style=for-the-badge&logo=codeigniter&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Laravel-FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Flutter-02569B.svg?style=for-the-badge&logo=flutter&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Bootstrap-8511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+    <img src="https://img.shields.io/badge/CodeIgniter-EF4223?style=for-the-badge&logo=codeigniter&logoColor=white"(https://codeigniter.com/)/>
+    <img src="https://img.shields.io/badge/Laravel-FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white"(https://laravel.com/)/>
+    <img src="https://img.shields.io/badge/Flutter-02569B.svg?style=for-the-badge&logo=flutter&logoColor=white"(https://flutter.dev/)/>
+    <img src="https://img.shields.io/badge/Bootstrap-8511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white"(https://getbootstrap.com/docs/5.3/getting-started/introduction/)/>
   </p>
 </details>
 
@@ -41,7 +42,7 @@
   <summary><strong>📌 Databases</strong></summary>
   <br>
   <p>
-    <img src="https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
+    <img src="https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white"(https://www.mysql.com/)/>
   </p>
 </details>
 
@@ -49,8 +50,8 @@
   <summary><strong>📌 Tools & Platforms</strong></summary>
   <br>
   <p>
-    <img src="https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=git&logoColor=white"/>
-    <img src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=git&logoColor=white"(https://git-scm.com/)/>
+    <img src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=github&logoColor=white"(https://github.com/agustianmuhammadgilang-cloud)/>
   </p>
 </details>
 
@@ -77,7 +78,7 @@ Fokus utama:
 ---
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="350px"/>
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="350px"()/>
 </p>
 
 ---
@@ -85,15 +86,15 @@ Fokus utama:
 ### GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=agustianmuhammadgilang-cloud&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=agustianmuhammadgilang-cloud&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=agustianmuhammadgilang-cloud&show_icons=true&theme=tokyonight&hide_border=true" height="170"()/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=agustianmuhammadgilang-cloud&theme=tokyonight&hide_border=true" height="170"()/>
 </p>
 
 ---
 
 ### GitHub Trophies
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=agustianmuhammadgilang-cloud&theme=radical&no-frame=false&no-bg=true&margin-w=4"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=agustianmuhammadgilang-cloud&theme=radical&no-frame=false&no-bg=true&margin-w=4"()/>
 </p>
 
 ---
@@ -101,13 +102,13 @@ Fokus utama:
 ### Activity Graph
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=agustianmuhammadgilang-cloud&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=agustianmuhammadgilang-cloud&theme=tokyonight"()/>
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00FFB7&center=true&vCenter=true&width=500&lines=Thanks+for+visiting!;Keep+learning+and+building+🔥" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00FFB7&center=true&vCenter=true&width=500&lines=Thanks+for+visiting!;Keep+learning+and+building+🔥" ()/>
 </p>
 
 
