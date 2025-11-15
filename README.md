@@ -1,4 +1,4 @@
-![Muhammad Gilang Agustian](img/github-header-1.png)
+![Muhammad Gilang Agustian](img/github-header-banner.png)
 
 ##### Organization & Leadership
 
