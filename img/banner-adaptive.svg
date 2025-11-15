@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- banner-adaptive.svg
+     Adaptive banner: switches colors based on prefers-color-scheme (light / dark).
+     Save to: img/banner-adaptive.svg
+-->
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 300" preserveAspectRatio="xMidYMid meet">
+  <defs>
+    <!-- Gradient for light mode -->
+    <linearGradient id="gLight" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0%" stop-color="#00C2FF"/>
+      <stop offset="100%" stop-color="#7B61FF"/>
+    </linearGradient>
+
+    <!-- Gradient for dark mode -->
+    <linearGradient id="gDark" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0%" stop-color="#00FFA3"/>
+      <stop offset="100%" stop-color="#00B4FF"/>
+    </linearGradient>
+
+    <style type="text/css"><![CDATA[
+      /* Default (light) styles */
+      .bg { fill: url(#gLight); }
+      .title { fill: #0b1220; font-family: 'Inter', 'Segoe UI', Sans-Serif; font-weight:700; }
+      .subtitle { fill: rgba(11,18,32,0.8); font-family: 'Inter', 'Segoe UI', Sans-Serif; font-weight:500; }
+
+      /* Dark theme overrides */
+      @media (prefers-color-scheme: dark) {
+        .bg { fill: url(#gDark); }
+        .title { fill: #e6f7ff; }
+        .subtitle { fill: rgba(230,247,255,0.9); }
+      }
+
+      /* small animation for the blob */
+      .blob { transform-origin: center; animation: floaty 6s ease-in-out infinite; opacity:0.95; }
+      @keyframes floaty {
+        0%   { transform: translateY(0px) scale(1) }
+        50%  { transform: translateY(-8px) scale(1.02) }
+        100% { transform: translateY(0px) scale(1) }
+      }
+    ]]></style>
+  </defs>
+
+  <!-- Background rounded rectangle with gradient -->
+  <rect class="bg" x="0" y="0" width="1200" height="300" rx="20" ry="20"/>
+
+  <!-- decorative blob -->
+  <g transform="translate(980,70) scale(1.1)" class="blob" opacity="0.85">
+    <path d="M55,-40C68.7,-20.9,72.7,3.8,62.3,24.6C51.9,45.3,27.1,62.1,-0.8,63.2C-28.8,64.3,-57.6,49.6,-67,27.9C-76.4,6.1,-66.4,-23.6,-48.8,-41.4C-31.1,-59.2,-15.6,-65.2,6.2,-70.3C28,-75.3,56.4,-79.1,55,-40Z"
+          transform="translate(0,0) scale(1.6)" fill="rgba(255,255,255,0.12)"></path>
+  </g>
+
+  <!-- Main text -->
+  <g transform="translate(60,95)">
+    <text class="title" x="0" y="0" font-size="48">Hi, I'm <tspan style="fill: #FFD166">Gilang</tspan> 👋</text>
+    <text class="subtitle" x="0" y="62" font-size="20">Web Developer • CodeIgniter 4 & Laravel Enthusiast • Frontend & Backend</text>
+
+    <!-- typing-like animated line (simple) -->
+    <rect x="0" y="82" width="480" height="4" rx="2" fill="rgba(255,255,255,0.15)">
+      <animate attributeName="opacity" values="0.25;1;0.25" dur="2s" repeatCount="indefinite"/>
+    </rect>
+  </g>
+
+  <!-- small badges (icons drawn as circles + letters, keeps it inline) -->
+  <g transform="translate(60,170)" font-family="Inter,Segoe UI,sans-serif" font-weight="600">
+    <rect x="0" y="0" rx="8" ry="8" width="120" height="36" fill="rgba(255,255,255,0.08)"/>
+    <text x="18" y="24" font-size="14" class="subtitle">CodeIgniter · Laravel · JS</text>
+
+    <rect x="140" y="0" rx="8" ry="8" width="180" height="36" fill="rgba(255,255,255,0.06)"/>
+    <text x="158" y="24" font-size="14" class="subtitle">PHP · MySQL · Bootstrap · Flutter</text>
+  </g>
+
+  <!-- subtle corner glow -->
+  <radialGradient id="glow" cx="0.2" cy="0.2">
+    <stop offset="0%" stop-color="#ffffff" stop-opacity="0.06"/>
+    <stop offset="100%" stop-color="#ffffff" stop-opacity="0"/>
+  </radialGradient>
+  <rect x="0" y="0" width="1200" height="300" fill="url(#glow)" opacity="0.6"/>
+</svg>
