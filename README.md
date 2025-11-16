@@ -1,13 +1,5 @@
 <p align="center">
-  <div style="
-    background-image: url('img/github-header-banner.png');
-    background-size: cover;
-    background-position: center;
-    width: 100%;
-    height: 250px;
-    border-radius: 10px;
-  ">
-  </div>
+  <img src="img/github-header-banner.png" draggable="false" alt="Muhammad Gilang Agustian" />
 </p>
 
 <p align="center">
