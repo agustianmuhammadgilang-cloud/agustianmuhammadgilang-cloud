@@ -1,6 +1,10 @@
 <p align="center">
-  <img src="img/github-header-banner.png" draggable="false" alt="Muhammad Gilang Agustian" />
+  <img 
+    src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAACAAAAAIwCAYAAAASrYvTAAAQAElEQVR4Aey9B2B...h/+6Q+714/93F/bu3/rM+71wz/zEXctdC+R95/+xb+19/3255MuJ5Fn//BPf8S1" 
+    alt="Muhammad Gilang Agustian"
+  />
 </p>
+
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=00C2FF&center=true&vCenter=true&lines=Web+Developer;Backend+%26+Frontend+Learner;CodeIgniter+4+%7C+Laravel+Enthusiast;Always+Learning+New+Things+🔥" />
