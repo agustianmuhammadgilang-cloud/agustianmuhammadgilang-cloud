@@ -1,9 +1,7 @@
+<!-- HEADER -->
 <p align="center">
-  <img src="img/github-header-banner.png" 
-       alt="Muhammad Gilang Agustian"
-       style="pointer-events: none;" />
+  <img src="img/github-header-banner.png" alt="Muhammad Gilang Agustian" />
 </p>
-
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=00C2FF&center=true&vCenter=true&lines=Web+Developer;Backend+%26+Frontend+Learner;CodeIgniter+4+%7C+Laravel+Enthusiast;Always+Learning+New+Things+🔥" />
