@@ -36,15 +36,23 @@
 
 
 <details>
-  <summary><strong>📌 Frameworks & Libraries</strong></summary>
-  <br>
+  <summary><strong>📌 Frameworks & Libraries</strong></summary><br>
   <p>
-    <img src="https://img.shields.io/badge/CodeIgniter-EF4223?style=for-the-badge&logo=codeigniter&logoColor=white"(https://codeigniter.com/)/>
-    <img src="https://img.shields.io/badge/Laravel-FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white"(https://laravel.com/)/>
-    <img src="https://img.shields.io/badge/Flutter-02569B.svg?style=for-the-badge&logo=flutter&logoColor=white"(https://flutter.dev/)/>
-    <img src="https://img.shields.io/badge/Bootstrap-8511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white"(https://getbootstrap.com/docs/5.3/getting-started/introduction/)/>
+    <a href="https://codeigniter.com/" target="_blank">
+      <img src="https://img.shields.io/badge/CodeIgniter-EF4223?style=for-the-badge&logo=codeigniter&logoColor=white"/>
+    </a>
+    <a href="https://laravel.com/" target="_blank">
+      <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"/>
+    </a>
+    <a href="https://flutter.dev/" target="_blank">
+      <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
+    </a>
+    <a href="https://getbootstrap.com/" target="_blank">
+      <img src="https://img.shields.io/badge/Bootstrap-8511FA?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+    </a>
   </p>
 </details>
+
 
 <details>
   <summary><strong>📌 Databases</strong></summary>
