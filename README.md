@@ -1,8 +1,7 @@
 <p align="center">
-  <img 
-    src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAACAAAAAIwCAYAAAASrYvTAAAQAElEQVR4Aey9B2B...h/+6Q+714/93F/bu3/rM+71wz/zEXctdC+R95/+xb+19/3255MuJ5Fn//BPf8S1" 
-    alt="Muhammad Gilang Agustian"
-  />
+  <img src="img/github-header-banner.png" 
+       alt="Muhammad Gilang Agustian"
+       style="pointer-events: none;" />
 </p>
 
 
