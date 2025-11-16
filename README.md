@@ -38,8 +38,6 @@
 <details>
   <summary><strong>📌 Frameworks & Libraries</strong></summary><br>
   <p>
-    <a href="https://codeigniter.com/" target="_blank">
-      <img src="https://img.shields.io/badge/CodeIgniter-EF4223?style=for-the-badge&logo=codeigniter&logoColor=white"/>
     </a>
     <a href="https://laravel.com/" target="_blank">
       <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"/>
@@ -49,18 +47,22 @@
     </a>
     <a href="https://getbootstrap.com/" target="_blank">
       <img src="https://img.shields.io/badge/Bootstrap-8511FA?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+    <a href="https://codeigniter.com/" target="_blank">
+      <img src="https://img.shields.io/badge/CodeIgniter-EF4223?style=for-the-badge&logo=codeigniter&logoColor=white"/>
     </a>
   </p>
 </details>
 
 
 <details>
-  <summary><strong>📌 Databases</strong></summary>
-  <br>
+  <summary><strong>📌 Databases</strong></summary><br>
   <p>
-    <img src="https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white"(https://www.mysql.com/)/>
+    <a href="https://www.mysql.com/" target="_blank">
+      <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+    </a>
   </p>
 </details>
+
 
 <details>
   <summary><strong>📌 Tools & Platforms</strong></summary>
